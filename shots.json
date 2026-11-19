@@ -1,0 +1,6 @@
+[
+  { "name": "1-cover.jpg", "query": "?shot=1&layout=mosaic&grade=vice&format=landscape&deal=0", "capture": "export", "w": 1920, "h": 1080, "scaled_to": "1280x720" },
+  { "name": "2-editor.jpg", "query": "?shot=1&layout=hero&grade=neon&format=square&deal=0&title=BOULEVARD%0AQUEEN&subtitle=cruise%20control&stars=5", "capture": "page", "viewport": "1280x800", "note": "one drag on the hero panel before capture" },
+  { "name": "3-cover-portrait.jpg", "query": "?shot=1&layout=hero&grade=neon&format=portrait&title=BOULEVARD%0AQUEEN&subtitle=cruise%20control&stars=5", "capture": "export", "w": 1080, "h": 1350, "scaled_to": "1024x1280" },
+  { "name": "4-cover-ink-pop.jpg", "query": "?shot=1&layout=slash&grade=ink&format=square&deal=3&title=Pier%20Pressure&subtitle=catch%20of%20the%20day&tagline=Big%20Catch", "capture": "export", "w": 1080, "h": 1080, "scaled_to": "960x960" }
+]
